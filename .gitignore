@@ -1,0 +1,18 @@
+# SVN managed - folder tracked by Git, contents managed by SVN
+Assets/Resources/*
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
